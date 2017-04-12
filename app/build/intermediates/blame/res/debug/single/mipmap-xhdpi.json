@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android\\projectlocation\\CSDN\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\topbar_icon_nor.png",
+        "source": "D:\\Android\\projectlocation\\CSDN\\app\\src\\main\\res\\mipmap-xhdpi\\topbar_icon_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\projectlocation\\CSDN\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\topbar_icon_pre.png",
+        "source": "D:\\Android\\projectlocation\\CSDN\\app\\src\\main\\res\\mipmap-xhdpi\\topbar_icon_pre.png"
+    },
+    {
+        "merged": "D:\\Android\\projectlocation\\CSDN\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Android\\projectlocation\\CSDN\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\projectlocation\\CSDN\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\activity_back_normal.png",
+        "source": "D:\\Android\\projectlocation\\CSDN\\app\\src\\main\\res\\mipmap-xhdpi\\activity_back_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\projectlocation\\CSDN\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\activity_back_pressed.png",
+        "source": "D:\\Android\\projectlocation\\CSDN\\app\\src\\main\\res\\mipmap-xhdpi\\activity_back_pressed.png"
+    }
+]

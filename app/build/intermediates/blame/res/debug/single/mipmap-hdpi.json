@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\projectlocation\\CSDN\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\news_default_icon.png",
+        "source": "D:\\Android\\projectlocation\\CSDN\\app\\src\\main\\res\\mipmap-hdpi\\news_default_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\projectlocation\\CSDN\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\projectlocation\\CSDN\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

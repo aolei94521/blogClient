@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1d889ba699be908fc42d24f1b28172ece67bc01c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_91b259c8abf24e5b94c39ec9ed411e1247bc62ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e741d5f34cf643ae208fac7cb19675de33a989ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_61e244fc933fd3633923ed3a30f480d6a5866a9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\libs\jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3_fdc9cda9bc00c0718860e8fe26b766f10ad0bb72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b35d297381457c8e44d71fbc1a9209383413fcdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_ec5c43e3acbd7bd54b96298d8d309a863ff12d56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ba5040b5771d4a3b804a3c451e4824ec8d140910.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f2a4f107f4c32e672cfe7f1ab55d877a76ad8eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c38309bd1cb045f1670d55ce0b3e6a3c06b742d3">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_01d35cda59c728bbe3883648685c02102d407557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_3f359ac388ed2f6a7cc4f4301f9f17f1edc1d344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_561437f022fd65589b82e773f7afdd1db1b043aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_a08578fb37df8bec9de3ff45d16225def706289e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb29af781caeecf84cb2b45786c135c7462b5edf">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\instant-run_0c102811fd90e4292bab63136b2d09872234c957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c0756a2b8a7bdffc2c1a4ce2d2750c378ba22ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_48c79769667285250411ce296e80406a7f3cf944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8fce6528b74392faca6f023669e7d9a9d8c46dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_e025223afbe0117700d3c1d8f1edc41284eb4ca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_ac439965b101458ed06bae33c8ee99f0d64052e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c875f822ae79a944953bc3c129dced1edc9fcbe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\projectlocation\CSDN\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Android\projectlocation\CSDN\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_bf88e676fc90d70bdcb0bc753f5ebac7c4385d0d.jar" />
+    </item>
+
+</items>
